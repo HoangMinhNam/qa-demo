@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-04-26T03:40:26Z" name="qa-demo_suite" finished-at="2021-04-26T03:40:47Z" duration-ms="21864">
+  <suite started-at="2021-04-26T04:03:02Z" name="qa-demo_suite" finished-at="2021-04-26T04:03:15Z" duration-ms="13163">
     <groups>
     </groups>
-    <test started-at="2021-04-26T03:40:26Z" name="qa-demo_test" finished-at="2021-04-26T03:40:47Z" duration-ms="21864">
+    <test started-at="2021-04-26T04:03:02Z" name="qa-demo_test" finished-at="2021-04-26T04:03:15Z" duration-ms="13163">
       <class name="test.google.search.SearchHomeTest">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.google.search.SearchHomeTest@77f1baf5]" started-at="2021-04-26T03:40:26Z" name="beforeTest" finished-at="2021-04-26T03:40:28Z" duration-ms="2473" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.google.search.SearchHomeTest@77f1baf5]" started-at="2021-04-26T04:03:02Z" name="beforeTest" finished-at="2021-04-26T04:03:04Z" duration-ms="2075" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="verifyDomainOfSearchHome()[pri:0, instance:test.google.search.SearchHomeTest@77f1baf5]" started-at="2021-04-26T03:40:28Z" name="verifyDomainOfSearchHome" finished-at="2021-04-26T03:40:47Z" duration-ms="19246" status="PASS">
+        <test-method signature="verifyDomainOfSearchHome()[pri:0, instance:test.google.search.SearchHomeTest@77f1baf5]" started-at="2021-04-26T04:03:04Z" name="verifyDomainOfSearchHome" finished-at="2021-04-26T04:03:15Z" duration-ms="10937" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyDomainOfSearchHome -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.google.search.SearchHomeTest@77f1baf5]" started-at="2021-04-26T03:40:47Z" name="afterTest" finished-at="2021-04-26T03:40:47Z" duration-ms="118" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.google.search.SearchHomeTest@77f1baf5]" started-at="2021-04-26T04:03:15Z" name="afterTest" finished-at="2021-04-26T04:03:15Z" duration-ms="133" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
